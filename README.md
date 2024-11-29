@@ -1,5 +1,5 @@
 # 👋 Hello! I'm Abdo
-   <img src="https://www.wallpaperflare.com/static/109/431/831/anime-naruto-shippuuden-uchiha-obito-sharingan-wallpaper.jpg" alt="Obito Uchiha" width="500" />
+                           <img src="https://www.wallpaperflare.com/static/109/431/831/anime-naruto-shippuuden-uchiha-obito-sharingan-wallpaper.jpg" alt="Obito Uchiha" width="500" />
 
 ## 👨‍💻 About Me
 I’m a **Backend Developer** currently learning at the **ALX Backend Program**. I’m passionate about technology, coding, and solving real-world problems through backend development. I have a strong foundation in **C**, **Python**, **SQL**, **Django**, **MySQL**, and **Git**, and I'm actively working on improving my skills and building projects.
