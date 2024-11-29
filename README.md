@@ -1,32 +1,40 @@
-# Abdellah El Ouachama - Backend Developer
+# 👋 Hello! I'm Abdellah El Ouachama
+   <img src="https://www.wallpaperflare.com/static/109/431/831/anime-naruto-shippuuden-uchiha-obito-sharingan-wallpaper.jpg" alt="Obito Uchiha" width="500" />
 
-![Abdellah](https://avatars.githubusercontent.com/u/135672838?v=4)
+## 👨‍💻 About Me
+I’m a **Backend Developer** currently learning at the **ALX Backend Program**. I’m passionate about technology, coding, and solving real-world problems through backend development. I have a strong foundation in **C**, **Python**, **SQL**, **Django**, **MySQL**, and **Git**, and I'm actively working on improving my skills and building projects.
 
-## About Me
-I am a passionate Backend Developer currently learning through the ALX Backend Program. My skills are focused on backend technologies such as C, Python, SQL, Django, MySQL, and the DRF framework. I have also completed the CS50 program and hold a Foundation Certificate from ALX.
+I also have completed the **CS50 Program** and hold a **Certificate of Foundation Program from ALX**. I’m always excited to learn new technologies and work on exciting projects.
 
-I am deeply passionate about technology and continuously exploring ways to improve my skills and contribute to the tech community.
+---
 
-## Tech Stack
-- **Languages**: C, Python, SQL
-- **Frameworks**: Django, DRF (Django Rest Framework)
-- **Databases**: MySQL
-- **Version Control**: Git
-- **Paradigms**: Object-Oriented Programming (OOP)
+## 🛠️ My Tech Stack
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-004C87?style=for-the-badge&logo=java&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-009688?style=for-the-badge&logo=django&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## My Learning Journey
-I am currently working on mastering backend technologies and have recently delved into Linux basics and API development. I plan to explore more advanced topics like Microservices, Docker, and AWS to enhance my skill set.
+---
 
-## Social Media
-Feel free to connect with me on my social media accounts:
+## 💼 Projects
+I am currently working on various backend development projects as part of my learning journey at **ALX**. These projects include building APIs using **Django Rest Framework (DRF)**, working with databases like **MySQL**, and exploring **Linux** for development tasks. I have also completed projects from the **CS50 Program**, which helped me build a solid foundation in **C**, **Python**, and problem-solving.
 
-- [Instagram](https://www.instagram.com/abdo0_1949/?hl=en#)
+---
+
+## 🌍 Connect with Me
+Feel free to reach out or follow me on my social media profiles:
+
+- [Instagram](https://www.instagram.com/abdo0_1949/?hl=en#)  
 - [LinkedIn](https://www.linkedin.com/in/abdellah-el-ouachama-54522b2b2)
 
-## Ongoing Projects
-I am actively working on some personal projects and contributing to open-source. Stay tuned for updates!
+---
 
-## Image of Obito Uchiha
-Here's an image of **Obito Uchiha** from Naruto, which I find inspiring:
+### 📚 Learning & Exploring
+I am continually expanding my knowledge by diving into new technologies and working on personal projects. If you're interested in tech, development, or just want to connect, don't hesitate to reach out!
 
-<img src="https://www.wallpaperflare.com/static/109/431/831/anime-naruto-shippuuden-uchiha-obito-sharingan-wallpaper.jpg" alt="Obito Uchiha" width="500" />
+---
