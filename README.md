@@ -27,7 +27,6 @@ I am currently working on various backend development projects as part of my lea
 ---
 
 ## 🌍 Connect with Me
-Feel free to reach out or follow me on my social media profiles:
 
 - [Instagram](https://www.instagram.com/abdo0_1949/?hl=en#)  
 - [LinkedIn](https://www.linkedin.com/in/abdellah-el-ouachama-54522b2b2)
