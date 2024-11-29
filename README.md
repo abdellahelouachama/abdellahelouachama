@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 Tech Stack
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C](https://www.iso.org/iso-9001-the-standards.html)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -25,6 +25,6 @@
 ---
 
 ## 🔗 Connect With Me
-[![LinkedIn](www.linkedin.com/in/abdellah-el-ouachama-54522b2b2)](https://linkedin.com/in/abdellah el ouachama)
-[![Instagram](https://www.instagram.com/abdo0_1949/?hl=en)](https://instagram.com/abdo0_1949)
+[![LinkedIn](https://www.linkedin.com/in/abdellah-el-ouachama-54522b2b2)]
+[![Instagram](https://www.instagram.com/abdo0_1949/?hl=en)]
 
