@@ -1,18 +1,16 @@
-# Hi there 👋, I'm Abdo
+# 👋 Hello! I'm Abdellah El Ouachama
+![Obito Uchiha](https://www.wallpaperflare.com/static/109/431/831/anime-naruto-shippuuden-uchiha-obito-sharingan-wallpaper.jpg)
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/135672838?v=4" alt="Abdo's Profile Picture" width="200">
-</p>
 
-🎓 **Backend Developer** | 🌍 Passionate about Technology  
-📚 Currently learning at **ALX Backend Programme**  
-💻 Finished the **CS50 Program**  
-🏆 **Certificate of Foundation Programme** from ALX
+## 👨‍💻 About Me
+I’m a **Backend Developer** currently learning at the **ALX Backend Program**. I’m passionate about technology, coding, and solving real-world problems through backend development. I have a strong foundation in **C**, **Python**, **SQL**, **Django**, **MySQL**, and **Git**, and I'm actively working on improving my skills and building projects.
+
+I also have completed the **CS50 Program** and hold a **Certificate of Foundation Program from ALX**. I’m always excited to learn new technologies and work on exciting projects.
 
 ---
 
-## 🚀 Tech Stack
-![C](https://www.iso.org/iso-9001-the-standards.html)
+## 🛠️ My Tech Stack
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -24,7 +22,22 @@
 
 ---
 
-## 🔗 Connect With Me
-[![LinkedIn](https://www.linkedin.com/in/abdellah-el-ouachama-54522b2b2)]
-[![Instagram](https://www.instagram.com/abdo0_1949/?hl=en)]
+## 💼 Projects
+I am currently working on various backend development projects as part of my learning journey at **ALX**. These projects include building APIs using **Django Rest Framework (DRF)**, working with databases like **MySQL**, and exploring **Linux** for development tasks. I have also completed projects from the **CS50 Program**, which helped me build a solid foundation in **C**, **Python**, and problem-solving.
+
+---
+
+## 🌍 Connect with Me
+Feel free to reach out or follow me on my social media profiles:
+
+- [Instagram](https://www.instagram.com/abdo0_1949/?hl=en#)  
+- [LinkedIn](https://www.linkedin.com/in/abdellah-el-ouachama-54522b2b2)
+
+---
+
+### 📚 Learning & Exploring
+I am continually expanding my knowledge by diving into new technologies and working on personal projects. If you're interested in tech, development, or just want to connect, don't hesitate to reach out!
+
+---
+
 
