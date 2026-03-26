@@ -1,6 +1,5 @@
 # 👋 Hello! I'm Abdo                          
-   <img src="" alt="https://i.pinimg.com/736x/4f/92/e6/4f92e6a4727147e6636e2ee4f2a3fa91.jpg" width="500" />
-
+<img src="https://i.pinimg.com/736x/4f/92/e6/4f92e6a4727147e6636e2ee4f2a3fa91.jpg" alt="Image description" width="500" />
 ## 👨‍💻 About Me
 I’m a **Backend Developer** currently learning at the **ALX Backend Program**. I’m passionate about technology, coding, and solving real-world problems through backend development.
 
